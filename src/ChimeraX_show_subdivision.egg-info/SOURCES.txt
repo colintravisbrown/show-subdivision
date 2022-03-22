@@ -1,0 +1,8 @@
+README.md
+ChimeraX_show_subdivision.egg-info/PKG-INFO
+ChimeraX_show_subdivision.egg-info/SOURCES.txt
+ChimeraX_show_subdivision.egg-info/dependency_links.txt
+ChimeraX_show_subdivision.egg-info/requires.txt
+ChimeraX_show_subdivision.egg-info/top_level.txt
+src/__init__.py
+src/cmd.py
